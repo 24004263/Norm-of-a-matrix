@@ -55,13 +55,13 @@ print(result)
 <br>
 
 ### 2-Norm of a Matrix
-![alt text](<Screenshot 2025-05-06 154054.png>)
+![alt text](<Screenshot 2025-05-06 155630-1.png>)
 <br>
 <br>
 <br>
 
 ### Infinity Norm of a Matrix
-![alt text](<Screenshot 2025-05-06 155630.png>)
+![alt text](<Screenshot 2025-05-06 155652.png>)
 <br>
 <br>
 <br>
