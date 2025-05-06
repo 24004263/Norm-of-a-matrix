@@ -61,7 +61,7 @@ print(result)
 <br>
 
 ### Infinity Norm of a Matrix
-![alt text](<Screenshot 2025-05-06 155652.png>)
+![alt text](<Screenshot 2025-05-06 155652-1.png>)
 <br>
 <br>
 <br>
